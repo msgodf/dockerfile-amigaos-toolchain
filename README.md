@@ -6,8 +6,8 @@ It can run in a Docker container on x86 and the Raspberry Pi.
 
 ## Building for x86
 
-docker build .
+`docker build .`
 
 ## Building for the Raspberry Pi
 
-docker build -f Dockerfile-rpi .
+`docker build -f Dockerfile-rpi .`
